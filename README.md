@@ -26,11 +26,6 @@ A full-stack web app that helps you track your stock portfolio and get AI-powere
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to try it out](https://your-vercel-url.com)
-
----
 
 ## 🛠 Setup Instructions
 
@@ -61,6 +56,4 @@ A full-stack web app that helps you track your stock portfolio and get AI-powere
    npm install
    npm run dev
 ```
-4. Open your browser:
-
-   Visit http://localhost:3000 to view the app.
+Run it!
